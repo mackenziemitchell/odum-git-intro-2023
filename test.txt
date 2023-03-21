@@ -1,0 +1,1 @@
+This is a text file for testing git during the Odum Institute Git/GitHub training course.
